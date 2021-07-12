@@ -1,7 +1,6 @@
 
 
-### Hello 👋 There 😃
-           \- General Kenobi
+### Hello there 😃
 
 
 ### About me 😷
