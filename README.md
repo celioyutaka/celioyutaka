@@ -8,7 +8,7 @@ I am a software engineer from Brazil
 - 🔭 Working in projects using PHP, Laravel, MySQL and Javascript
 - 🌲 Working in a Custom Binary Tree with patterns in Golang
 - 🤳 Worked with mobile development - Android Java and WebView
-- 🌱 Learning design patterns, Golang and VueJs
+- 🌱 Learning Python and Golang
 - 📫 How to reach me: celioyutaka@gmail.com
 
 ## Projects
