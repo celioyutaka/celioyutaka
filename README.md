@@ -1,14 +1,20 @@
 
 
-# Hello there 😃
+# Hello there
 
 
-## About me 😷
+## About me
 I am a software engineer from Brazil
-- 🔭 Working in projects using PHP, Laravel, MySQL and Javascript
+- 🔭 Working in projects using AWS PHP, Laravel, MySQL and Javascript
 - 🌲 Working in a Custom Binary Tree with patterns in Golang
-- 🤳 Worked with mobile development - Android Java and WebView
+- 🤳 Worked with:
+  - AWS (RDS, EC2, S3, Lambda)  
+  - School Management System with PHP
+  - Mobile development - Android Java and WebView
+  - Web Crawler
+  - RPA
 - 🌱 Learning Python and Golang
+- 📖 Reading "Clean Code" - Robert C. Martin
 - 📫 How to reach me: celioyutaka@gmail.com
 
 ## Projects
