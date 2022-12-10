@@ -5,7 +5,7 @@
 
 ## About me
 I am a software engineer from Brazil
-- 🔭 Working in projects using AWS PHP, Laravel, MySQL and Javascript
+- 🔭 Working in projects using Python, Lambda, Message Queue
 - 🌲 Working in a Custom Binary Tree with patterns in Golang
 - 🤳 Worked with:
   - AWS (RDS, EC2, S3, Lambda)  
@@ -13,7 +13,6 @@ I am a software engineer from Brazil
   - Mobile development - Android Java and WebView
   - Web Crawler
   - RPA
-- 🌱 Learning Python and Golang
 - 📖 Reading "Clean Code" - Robert C. Martin
 - 📫 How to reach me: celioyutaka@gmail.com
 
