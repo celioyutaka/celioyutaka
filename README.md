@@ -39,7 +39,6 @@ I am a software engineer from Brazil
   - **eSignature** (Clicksign; D4Sign) for contracts signing
 
 ## 📁 Projects
-- [My personal Encyclopedia](https://github.com/celioyutaka/enzyklopadie)
 - [Etiqueta - User Interface to configure "stickers", label-printing templates in browser](https://github.com/celioyutaka/etiqueta)
 - [Reverse Polish Notation in Golang - Convert math expression and solve with step-by-step debug](https://github.com/celioyutaka/rpn-go)
 - [Rate Limiter - X Requests per Y Seconds - Concept for API Limit](https://github.com/celioyutaka/ratelimiter)
