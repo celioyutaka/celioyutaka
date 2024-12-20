@@ -9,7 +9,7 @@ I am a software engineer from Brazil
 - 🌲 Working in a Custom Binary Tree with patterns in Golang
 
 ## 🛠️ Worked at
-### 🚚 CI&T - in one of the biggest Logistic companies in Brazil - Order Tracking Manager System
+### 🚚 CI&T - Client: Logistic client - Order Tracking Manager System
 - **Developed and maintained** applications for a Logistic company, using serverless solutions (AWS Lambda + Queue) to get orders and process tracking information.
 - **Message Queue**: RabbitMQ and AWS SQS
 - **Database**: MySQL, MongoDB and DynamoDB
