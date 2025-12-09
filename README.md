@@ -5,7 +5,7 @@
 ## About me
 I am a software engineer from Brazil
 - Working in projects using Python
-- Working in a Custom Binary Tree with patterns in Golang
+- Working in a **Custom Binary Tree** with patterns in Golang
 ```
 ███████████████████████████████████████████████████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████████████████████┌┤        99|99        │█
